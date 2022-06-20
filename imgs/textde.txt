@@ -1,0 +1,48 @@
+-
+google hacking-dorking
+
+typing.coml
+=========
+from-html'
+
+<header>
+		Fast Name <br>
+		<input type="text" placeholder="Enter Your Fast Name"><br><br>
+		Last Name <br>
+		<input type="text" placeholder="Enter Your Last Name"><br><br>
+		Email<br>
+		<input type="email" placeholder="Write Your Email"><br><br>
+		Password<br>
+		<input type="Password" placeholder="Write Your Password"><br><br>
+		Age<br>
+		<input type="number" placeholder="Your Age Hare"><br><br>
+		Date of Birth<br>
+		<input type="date" ><br><br>
+		Country<br>
+		<select>
+			<option> Search Your Country</option>
+			<option> <a href="https://en.wikipedia.org/wiki/Bangladesh">Bangladesh</a></option>
+			<option>China</option>
+			<option>United States</option>
+			<option>Pakistan</option>
+			<option>Brazil</option>
+			<option>Russia</option>
+			<option>Japan</option>
+			<option>Philippines</option>
+			<option>Iran</option>
+		</select><br><br>
+		Choose Your Favorit Color <br>
+		<input type="checkbox">black
+		<input type="checkbox">Green
+		<input type="checkbox">Blue
+		<input type="checkbox">Yellow<br><br>
+		Gender<br>
+		<input type="radio" name="Gender">Male
+		<input type="radio" name="Gender">Female<br><br>
+		<button>Login</button>
+		<button>Reset</button>
+		<br>
+
+
+
+ 
